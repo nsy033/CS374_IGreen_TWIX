@@ -35,3 +35,6 @@ It shows detail of each item. It contains heart icon(putting to wish list), shar
 <h3>My Page</h3>
 
 My page shows the wish list of the user. Hovering on the non-eco-friendly item, Bukkuk recommends some other eco-friendly items with same function. For eco-friendly item, Bukkuk saids he likes the product. You can cancel heart in the wish list directly, and the items in the wish list determines the status of Bukkuk(such as dancing)
+
+# Demo Video
+https://www.youtube.com/watch?v=jOyUi0TUzc4
