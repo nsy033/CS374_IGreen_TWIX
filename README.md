@@ -36,5 +36,21 @@ It shows detail of each item. It contains heart icon(putting to wish list), shar
 
 My page shows the wish list of the user. Hovering on the non-eco-friendly item, Bukkuk recommends some other eco-friendly items with same function. For eco-friendly item, Bukkuk saids he likes the product. You can cancel heart in the wish list directly, and the items in the wish list determines the status of Bukkuk(such as dancing)
 
-# Demo Video
+# Final Result
+
+## Deployed Link
+https://igreen-twix.web.app/
+
+## Hi-Fi Prototype Demo Video
+<a href="https://www.youtube.com/watch?v=6vgBhVSdAqY">
+  <img src=https://img.youtube.com/vi/6vgBhVSdAqY/maxresdefault.jpg  width="480" height="320"/>
+</a>
+
+https://www.youtube.com/watch?v=6vgBhVSdAqY
+
+## Promotion Video
+<a href="https://www.youtube.com/watch?v=jOyUi0TUzc4">
+  <img src=https://img.youtube.com/vi/jOyUi0TUzc4/maxresdefault.jpg  width="480" height="320"/>
+</a>
+
 https://www.youtube.com/watch?v=jOyUi0TUzc4
